@@ -1,4 +1,5 @@
 # Spoken_Language_Identification_Custom_Model
+![image](https://github.com/ChayanGhosh1412/Spoken_Language_Identification_Custom_Model/assets/93574637/17d0ee02-73b4-49db-a70d-4cbff0c1697d)
 
 <h2>Introduction</h2>
 <p>
