@@ -19,7 +19,8 @@ In this section, we discussed about 3 models for SLID a Custom neural network mo
 
 <h2>Custom Model Architecture</h2>
 
-<center>![image](https://github.com/ChayanGhosh1412/Spoken_Language_Identification_Custom_Model/assets/93574637/56595900-8c3d-415c-8df4-faf2d1833562)
+<center>
+  ![image](https://github.com/ChayanGhosh1412/Spoken_Language_Identification_Custom_Model/assets/93574637/56595900-8c3d-415c-8df4-faf2d1833562)
 </center>
 
 By using Deep Neural Networks (DNN), Convolutional Neural Networks (CNN), and Gated Recurrent Unit (GRU), the issues presented by a variety of linguistic situations are intended to be addressed by utilizing the capabilities of these architectures to increase spoken language recognition accuracy. The general architecture of the deep learning models are as follows:
